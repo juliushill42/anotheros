@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\TITANTATIANA\ui\tatiana_ui\build\windows\x64\CMakeFiles\6b47df5b5bff2b36753491b798f76b6a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DB4CF2AD-0777-31FF-A21F-7C2894EAF770}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

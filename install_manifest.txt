@@ -1,0 +1,11 @@
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/TITANTATIANA/ui/tatiana_ui/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json

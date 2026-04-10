@@ -1,0 +1,36 @@
+{
+    "folders": [
+        {
+            "name": "Titan Kernel",
+            "path": "D:/Titan"
+        },
+        {
+            "name": "Tatiana Orchestrator",
+            "path": "D:/Tatiana"
+        },
+        {
+            "name": "ONE Codex",
+            "path": "D:/ONE"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.DS_Store": true,
+            "**/target": true,
+            "**/__pycache__": true
+        },
+        "search.exclude": {
+            "**/target": true,
+            "**/node_modules": true,
+            "**/build": true,
+            "**/dist": true
+        },
+        "editor.tabSize": 4,
+        "editor.detectIndentation": true,
+        "editor.formatOnSave": false,
+        "terminal.integrated.cwd": "D:/",
+        "rust-analyzer.cargo.autoreload": true,
+        "rust-analyzer.checkOnSave.command": "clippy"
+    }
+}
